@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="logo+text-graojs.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3933">
+      <stop
+         style="stop-color:#007500;stop-opacity:0.49803922;"
+         offset="0"
+         id="stop3937" />
+      <stop
+         id="stop3939"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3919">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop3921" />
+      <stop
+         id="stop3931"
+         offset="0.5"
+         style="stop-color:#008000;stop-opacity:0.49803922;" />
+      <stop
+         style="stop-color:#008000;stop-opacity:0;"
+         offset="1"
+         id="stop3923" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3933"
+       id="linearGradient5530"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3.2790308,0,0,3.387849,122.1513,-1899.3888)"
+       x1="-1347.2817"
+       y1="680.1582"
+       x2="-1186.1482"
+       y2="659.59943" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3933"
+       id="linearGradient5620"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.41553074,0,0,0.42932058,598.86864,312.64977)"
+       x1="-1347.2817"
+       y1="680.1582"
+       x2="-1186.1482"
+       y2="659.59943" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.92506041"
+     inkscape:cx="609.99456"
+     inkscape:cy="525.69827"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="692"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path5588"
+       d="m 71.078223,617.94639 c 66.351497,-41.46071 49.597577,-86.20901 81.119667,-126.1979 -16.38243,53.0015 -15.05652,87.20281 -68.285174,136.186 z"
+       style="fill:#52bd52;fill-opacity:1;stroke:none"
+       inkscape:export-filename="/dados/Desenvolvimento/GraoJS/graojs-visual/logo/logo+text-graojs-182x60.png"
+       inkscape:export-xdpi="25.261763"
+       inkscape:export-ydpi="25.261763" />
+    <g
+       style="stroke:none"
+       transform="matrix(0.12543001,0.01806092,-0.01806092,0.12543001,311.75465,510.84416)"
+       id="g5590"
+       inkscape:export-filename="/dados/Desenvolvimento/GraoJS/graojs-visual/logo/logo+text-graojs-182x60.png"
+       inkscape:export-xdpi="25.261763"
+       inkscape:export-ydpi="25.261763">
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path5592"
+         d="m -1088.8728,563.77244 c -32.2342,104.41018 -65.1058,161.8342 -122.1868,204.08684 -69.4093,49.91459 -79.1713,57.16341 -203.1927,9.21615 -3.2368,-120.2863 -13.329,-115.3065 79.122,-179.95853 56.4105,-37.50919 132.4437,-42.92543 246.2575,-33.34446 z"
+         style="color:#000000;fill:#52bd52;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path5594"
+         d="m -1417.8863,771.62398 c 183.782,-39.01287 137.3766,-81.11914 224.6872,-118.74712 -45.3764,49.87232 -41.7039,82.05434 -189.138,128.14548 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:none" />
+    </g>
+    <g
+       style="stroke:none"
+       id="g5596"
+       transform="matrix(0.01504991,-0.1258268,0.1258268,0.01504991,51.575367,360.89542)"
+       inkscape:export-filename="/dados/Desenvolvimento/GraoJS/graojs-visual/logo/logo+text-graojs-182x60.png"
+       inkscape:export-xdpi="25.261763"
+       inkscape:export-ydpi="25.261763">
+      <path
+         style="color:#000000;fill:#52bd52;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m -1088.8728,563.77244 c -32.2342,104.41018 -65.1058,161.8342 -122.1868,204.08684 -69.4093,49.91459 -79.1713,57.16341 -203.1927,9.21615 -3.2368,-120.2863 -13.329,-115.3065 79.122,-179.95853 56.4105,-37.50919 132.4437,-42.92543 246.2575,-33.34446 z"
+         id="path5598"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         d="m -1417.8863,771.62398 c 183.782,-39.01287 137.3766,-81.11914 224.6872,-118.74712 -45.3764,49.87232 -41.7039,82.05434 -189.138,128.14548 z"
+         id="path5600"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <path
+       sodipodi:nodetypes="sssss"
+       inkscape:connector-curvature="0"
+       id="path5602"
+       d="m 96.457863,566.39107 c -1.957984,68.62163 30.979267,23.18753 21.445077,67.18286 -4.80221,22.15974 -36.508784,22.81779 -57.702066,5.70435 C 39.007615,622.16484 30.480621,591.86454 41.15533,571.60068 51.830016,551.3368 97.223382,539.55853 96.457863,566.39107 z"
+       style="fill:#52bd52;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       inkscape:export-filename="/dados/Desenvolvimento/GraoJS/graojs-visual/logo/logo+text-graojs-182x60.png"
+       inkscape:export-xdpi="25.261763"
+       inkscape:export-ydpi="25.261763" />
+    <path
+       style="fill:url(#linearGradient5620);fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 96.763514,576.89618 c 1.336269,54.44172 27.001116,16.16881 16.575326,48.9137 -5.61171,17.62503 -34.372123,22.753 -53.761997,10.10253 -19.389912,-12.65043 -26.271075,-36.22616 -15.369576,-52.65783 10.901369,-16.43162 52.035503,-27.57362 52.556247,-6.3584 z"
+       id="path5604"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssss"
+       inkscape:export-filename="/dados/Desenvolvimento/GraoJS/graojs-visual/logo/logo+text-graojs-182x60.png"
+       inkscape:export-xdpi="25.261763"
+       inkscape:export-ydpi="25.261763" />
+    <path
+       sodipodi:nodetypes="sssss"
+       inkscape:connector-curvature="0"
+       id="path5606"
+       d="m 97.768361,587.12302 c 3.261539,28.07364 14.983899,14.02494 9.636069,27.48113 -3.3451,8.41684 -17.940412,9.69887 -27.612854,3.68079 -9.672358,-6.01807 -12.991734,-17.42325 -7.413941,-25.47419 5.577636,-8.05091 24.194781,-15.98155 25.390726,-5.68773 z"
+       style="fill:#34e034;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       inkscape:export-filename="/dados/Desenvolvimento/GraoJS/graojs-visual/logo/logo+text-graojs-182x60.png"
+       inkscape:export-xdpi="25.261763"
+       inkscape:export-ydpi="25.261763" />
+    <text
+       xml:space="preserve"
+       style="font-size:179.31925964px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#52bd52;fill-opacity:1;stroke:none;font-family:Sans"
+       x="169.66635"
+       y="651.93994"
+       id="text5610"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0228391,0.97767088)"
+       inkscape:export-filename="/dados/Desenvolvimento/GraoJS/graojs-visual/logo/logo+text-graojs-182x60.png"
+       inkscape:export-xdpi="25.261763"
+       inkscape:export-ydpi="25.261763"><tspan
+         sodipodi:role="line"
+         id="tspan5612"
+         x="169.66635"
+         y="651.93994"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Mystery Quest;-inkscape-font-specification:Mystery Quest"
+           id="tspan5616"
+           rotate="349.90005 0"
+           dx="0 0 0 0 0"><tspan
+   style="letter-spacing:-5.99880028px"
+   id="tspan5659">grao</tspan>JS</tspan></tspan></text>
+  </g>
+</svg>
