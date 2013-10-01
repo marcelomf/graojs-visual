@@ -16,26 +16,27 @@ Designed by Dave 'Squid' Cohen, licensed under
 
 * Logo (SVG)
 
-![logo](logo/logo-graojs.svg "Logo SVG")
+![logo](https://raw.github.com/rafaelgou/graojs-visual/master/logo/logo-graojs.svg "Logo SVG")
 
 * Logo + Text (SVG)
 
-![logo and text](logo/logo+text-graojs.svg "Logo + Text SVG")
+![logo and text](https://raw.github.com/rafaelgou/graojs-visual/master/logo/logo+text-graojs.svg "Logo + Text SVG")
 
 * Logo (PNG)
 
-![logo](logo/logo-graojs.png "Logo PNG")
+![logo](https://raw.github.com/rafaelgou/graojs-visual/master/logo/logo-graojs.png "Logo PNG")
 
 * Logo + Text (PNG)
 
-![logo and text](logo/logo+text-graojs.png "Logo + Text PNG")
+![logo and text](https://raw.github.com/rafaelgou/graojs-visual/master/logo/logo+text-graojs.png "Logo + Text PNG")
 
 Favicon
 ------
 
 Created with [Favicon Generator](http://favicon-generator.org/).
 
-logo/favicon.ico
+![favicon](https://raw.github.com/rafaelgou/graojs-visual/master/logo/logo/favicon.ico "favicon")
+
 
 To use, put on `<head>` section:
 
