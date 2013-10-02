@@ -8,8 +8,11 @@
 
 // graoJS
 
-@grao-navbar-default:    #1F7A68;//#007500; //0075007f
-@grao-navbar-inverted:   #34D1B2;//#52bd52;
+@grao-color-darker:      darken(@grao-color, 75.5%);
+@grao-color-dark:        darken(@grao-color, 25.5%);
+@grao-color:             #1F7A68;
+@grao-color-light:       lighten(@grao-color, 25.5%);
+@grao-color-lighter:     lighten(@grao-color, 65.5%);
 
 
 // Grays
@@ -24,10 +27,10 @@
 // Brand colors
 // -------------------------
 
-@brand-primary:         #007FFF;
-@brand-success:         #52bd52;//3FB618;
-@brand-warning:         #FF7518;
-@brand-danger:          #FF0039;
+@brand-primary:         #1F7A68;
+@brand-success:         #52BD52;
+@brand-warning:         #FF9A40;
+@brand-danger:          #DC6137;
 @brand-info:            #9954BB;
 
 // Scaffolding
@@ -84,9 +87,9 @@
 @line-height-large:              1.33;
 @line-height-small:              1.5;
 
-@border-radius-base:             0px;
-@border-radius-large:            0px;
-@border-radius-small:            0px;
+@border-radius-base:             2px;
+@border-radius-large:            3px;
+@border-radius-small:            1px;
 
 @component-active-bg:            @brand-primary;
 
@@ -112,27 +115,27 @@
 
 @btn-font-weight:                normal;
 
-@btn-default-color:              #fff;
-@btn-default-bg:                 @gray-light;
+@btn-default-color:              @grao-color;
+@btn-default-bg:                 @gray-lighter;
 @btn-default-border:             @btn-default-bg;
 
-@btn-primary-color:              @btn-default-color;
+@btn-primary-color:              #fff;
 @btn-primary-bg:                 @brand-primary;
 @btn-primary-border:             @btn-primary-bg;
 
-@btn-success-color:              @btn-default-color;
+@btn-success-color:              @btn-primary-color;
 @btn-success-bg:                 @brand-success;
 @btn-success-border:             @btn-success-bg;
 
-@btn-warning-color:              @btn-default-color;
+@btn-warning-color:              @btn-primary-color;
 @btn-warning-bg:                 @brand-warning;
 @btn-warning-border:             @btn-warning-bg;
 
-@btn-danger-color:               @btn-default-color;
+@btn-danger-color:               @btn-primary-color;
 @btn-danger-bg:                  @brand-danger;
 @btn-danger-border:              @btn-danger-bg;
 
-@btn-info-color:                 @btn-default-color;
+@btn-info-color:                 @btn-primary-color;
 @btn-info-bg:                    @brand-info;
 @btn-info-border:                @btn-info-bg;
 
@@ -245,8 +248,8 @@
 @navbar-height:                    90px;
 @navbar-margin-bottom:             @line-height-computed;
 @navbar-default-color:             #fff;
-@navbar-default-bg:                @grao-navbar-default; //@gray-darker;
-@navbar-default-border:            @navbar-default-bg; //darken(@navbar-default-bg, 6.5%);
+@navbar-default-bg:                @grao-color;
+@navbar-default-border:            @navbar-default-bg;
 @navbar-border-radius:             @border-radius-base;
 @navbar-padding-horizontal:        floor(@grid-gutter-width / 2);
 @navbar-padding-vertical:          ((@navbar-height - @line-height-computed) / 2);
@@ -275,8 +278,8 @@
 //
 // Reset inverted navbar basics
 @navbar-inverse-color:                      #fff;
-@navbar-inverse-bg:                         @grao-navbar-inverted; //@brand-primary;
-@navbar-inverse-border:                     @navbar-inverse-bg; //darken(@navbar-inverse-bg, 10%);
+@navbar-inverse-bg:                         @grao-color-light;
+@navbar-inverse-border:                     @navbar-inverse-bg; 
 
 // Inverted navbar links
 @navbar-inverse-link-color:                 #fff;
@@ -360,9 +363,9 @@
 
 @jumbotron-padding:              30px;
 @jumbotron-color:                inherit;
-@jumbotron-bg:                   #d1ffd1;
+@jumbotron-bg:                   lighten(@grao-color, 65.5%);
 
-@jumbotron-heading-color:        @grao-navbar-default;
+@jumbotron-heading-color:        @grao-color;
 
 
 // Form states and alerts
