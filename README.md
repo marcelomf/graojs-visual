@@ -14,13 +14,6 @@ Designed by Dave 'Squid' Cohen, licensed under
 [SIL Open Font License, 1.1](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL).
 
 
-* Logo (SVG)
-
-![logo](https://raw.github.com/rafaelgou/graojs-visual/master/logo/logo-graojs.svg "Logo SVG")
-
-* Logo + Text (SVG)
-
-![logo and text](https://raw.github.com/rafaelgou/graojs-visual/master/logo/logo+text-graojs.svg "Logo + Text SVG")
 
 * Logo (PNG)
 
@@ -34,9 +27,6 @@ Favicon
 ------
 
 Created with [Favicon Generator](http://favicon-generator.org/).
-
-![favicon](https://raw.github.com/rafaelgou/graojs-visual/master/logo/logo/favicon.ico "favicon")
-
 
 To use, put on `<head>` section:
 
